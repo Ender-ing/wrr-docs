@@ -1,0 +1,10 @@
+{
+    "name": {
+        "long": "Ender Documentation",
+        "short": "Docs"
+    },
+    "web": {
+        "host": "docs.ender.ing",
+        "sitemap": false
+    }
+}
